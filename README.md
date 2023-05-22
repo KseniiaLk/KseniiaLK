@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my GitHub profile! This is where I showcase my projects and share my passion for coding. Feel free to explore and connect with me.
+
+## Table of Contents
+- [Profile Overview](#profile-overview)
+- [Project Showcase](#project-showcase)
 
 <!--
 **KseniiaLk/KseniiaLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me on Linkedin Badge
