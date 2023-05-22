@@ -3,7 +3,7 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 
 ## I'm JavaScript junior developer
 
-- 🔭 I’m currently working on Battle-Pass project in Stryda
+- 🔭 I’m currently working on the Battle-Pass project in Stryda (internship)
 - 🌱 I’m currently learning React in Typescript with Tailwind CSS
 
 ### Connect with me:
