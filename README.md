@@ -15,7 +15,6 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 [![website](./img/instagram-dark.svg)](https://instagram.com/kseny_lk?igshid=NTc4MTIwNjQ2YQ==#gh-dark-mode-only)
 
 ### Languages and Tools:
-<p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -29,13 +28,12 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-</p>
 
 ### GitHub:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KseniiaLK&show_icons=true&locale=en&layout=compact" alt="KseniiaLK" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KseniiaLK&show_icons=true&locale=en" alt="KseniiaLK" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KseniiaLK&show_icons=true&locale=en" alt="KseniiaLK" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniiaLK&" alt="KseniiaLK" /></p>
 
