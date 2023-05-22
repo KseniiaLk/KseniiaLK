@@ -31,13 +31,12 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 </p>
 
-<p>
-</p>
+### GitHub:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KseniiaLK&show_icons=true&locale=en&layout=compact" alt="KseniiaLK" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KseniiaLK&show_icons=true&locale=en" alt="KseniiaLK" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KseniiaLK&show_icons=true&locale=en" alt="KseniiaLK" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniiaLK&" alt="KseniiaLK" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KseniiaLK&" alt="KseniiaLK" /></p>
 
 
