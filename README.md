@@ -1,10 +1,9 @@
 ### Hi there, I'm Kseniia 👋
 Welcome to my GitHub profile! This is where I showcase my projects and share my passion for coding. Feel free to explore and connect with me.
 
-## I'm JavaScript junior developer
+## I'm Fullstack junior developer
 
-- 🔭 I’m currently working on the Battle-Pass project in Stryda (internship)
-- 🌱 I’m currently learning React in Typescript with Tailwind CSS
+- 🌱 I’m currently learning C#
 
 ### Connect with me:
 &nbsp;&nbsp;
