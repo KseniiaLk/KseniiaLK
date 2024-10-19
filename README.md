@@ -9,9 +9,6 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kseniia-lukanina/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kseniia-lukanina/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/kseny_lk?igshid=NTc4MTIwNjQ2YQ==#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/kseny_lk?igshid=NTc4MTIwNjQ2YQ==#gh-dark-mode-only)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
