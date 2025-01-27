@@ -3,9 +3,11 @@ Welcome to my GitHub profile! This is where I showcase my projects and share my 
 
 ## I'm Fullstack junior developer
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .NET development
+  
+###  📫 How to reach me:  kseniia.lukanina@outlook.com
 
-### Connect with me:
+### Connect with me also:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kseniia-lukanina/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kseniia-lukanina/#gh-dark-mode-only)
