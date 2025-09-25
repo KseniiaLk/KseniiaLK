@@ -1,7 +1,7 @@
 ### Hi there, I'm Kseniia 👋
 Welcome to my GitHub profile! This is where I showcase my projects and share my passion for coding. Feel free to explore and connect with me.
 
-## I'm Fullstack junior developer
+## I'm Fullstack developer
 
 - 🌱 I’m currently learning .NET development
   
